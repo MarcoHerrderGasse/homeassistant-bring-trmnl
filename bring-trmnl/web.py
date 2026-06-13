@@ -1356,11 +1356,11 @@ SETUP_TEMPLATE = """<!DOCTYPE html>
         <div class="card-bd">
           <div class="fg">
             <div class="fl">E-Mail</div>
-            <input type="email" id="s1Email" placeholder="deine@email.de" autocomplete="email">
+            <input type="email" id="s1Email" placeholder="deine@email.de" autocomplete="off">
           </div>
           <div class="fg">
             <div class="fl">Passwort</div>
-            <input type="password" id="s1Password" placeholder="••••••••" autocomplete="current-password">
+            <input type="text" id="s1Password" placeholder="••••••••" autocomplete="off" style="-webkit-text-security: disc;">
           </div>
           <div class="fe" id="s1Error"></div>
         </div>
