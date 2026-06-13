@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Add-on runtime data
+bring-trmnl/.state
+bring-trmnl/.last_items
+bring-trmnl/.status
+bring-trmnl/.sync_trigger
+bring-trmnl/bring_trmnl.log
