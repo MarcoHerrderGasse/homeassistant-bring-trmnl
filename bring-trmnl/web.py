@@ -920,7 +920,7 @@ TEMPLATE = """<!DOCTYPE html>
           </div>
           <div class="form-group">
             <div class="field-label">Passwort</div>
-            <input type="password" name="bring_password" id="password" value="{{ cfg.bring_password }}" placeholder="••••••••" autocomplete="off">
+            <input type="text" name="bring_password" id="password" value="{{ cfg.bring_password }}" placeholder="••••••••" autocomplete="off" style="-webkit-text-security: disc;">
           </div>
         </div>
 
