@@ -1,3 +1,8 @@
+## 1.4.5
+
+### Fixed
+- Safari no longer suggests saving or updating passwords on both the setup screen and the settings page — password fields now use a text input with CSS masking to avoid browser credential detection
+
 ## 1.4.4
 
 ### Fixed
