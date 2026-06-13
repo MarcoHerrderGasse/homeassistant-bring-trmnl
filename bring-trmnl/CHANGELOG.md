@@ -1,3 +1,8 @@
+## 1.4.4
+
+### Fixed
+- Safari no longer suggests saving or updating passwords when entering Bring! credentials
+
 ## 1.4.3
 
 ### Fixed

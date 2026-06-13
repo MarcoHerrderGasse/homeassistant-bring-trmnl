@@ -1,6 +1,6 @@
 # Bring! → TRMNL · Home Assistant Add-on
 
-[![Version](https://img.shields.io/badge/version-1.4.3-blue.svg)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-1.4.4-blue.svg)](CHANGELOG.md)
 [![HA Ingress](https://img.shields.io/badge/HA-Ingress-brightgreen.svg)](https://www.home-assistant.io/integrations/hassio/#ingress)
 [![Supports aarch64](https://img.shields.io/badge/aarch64-yes-green.svg)]()
 [![Supports amd64](https://img.shields.io/badge/amd64-yes-green.svg)]()

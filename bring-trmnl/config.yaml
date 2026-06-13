@@ -1,6 +1,6 @@
 name: "Bring! → TRMNL"
 description: "Sync your Bring! shopping list to a TRMNL e-ink display with product icons."
-version: "1.4.3"
+version: "1.4.4"
 slug: "bring_trmnl"
 init: false
 startup: application
