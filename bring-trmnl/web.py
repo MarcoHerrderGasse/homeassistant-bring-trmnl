@@ -908,7 +908,7 @@ TEMPLATE = """<!DOCTYPE html>
   <div class="alert alert-ok">Einstellungen gespeichert. Synchronisierung läuft sofort an.</div>
   {% endif %}
 
-  <form method="post" action="settings" id="settingsForm">
+  <form method="post" action="settings" id="settingsForm" autocomplete="off">
 
     <div class="card">
       <div class="form-section-header">Bring! Zugangsdaten</div>
@@ -920,7 +920,7 @@ TEMPLATE = """<!DOCTYPE html>
           </div>
           <div class="form-group">
             <div class="field-label">Passwort</div>
-            <input type="password" name="bring_password" id="password" value="{{ cfg.bring_password }}" placeholder="••••••••" autocomplete="new-password">
+            <input type="password" name="bring_password" id="password" value="{{ cfg.bring_password }}" placeholder="••••••••" autocomplete="off">
           </div>
         </div>
 
